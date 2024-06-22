@@ -10,13 +10,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HenriqueArgolo&theme=github-dark-blue&card_width=750&card_height=200)](https://git.io/streak-stats)
 
 </div>
+<br>
+<br>
+<br>
 
-
-<div align="center">
-   
-<img align="center" src="https://github.com/HenriqueArgolo/HenriqueArgolo/assets/79125655/ad1ed52f-fcd0-477c-b5ce-e34b51d7e745">
-
-</div>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -37,6 +34,10 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jhnrque_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-argolo/) 
 
+<div align="center">
+   
+<img align="center" src="https://github.com/HenriqueArgolo/HenriqueArgolo/assets/79125655/ad1ed52f-fcd0-477c-b5ce-e34b51d7e745">
 
+</div>
 
 
