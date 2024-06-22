@@ -11,22 +11,31 @@
 
 </div>
 
+
 <div align="center">
    
 <img align="center" src="https://github.com/HenriqueArgolo/HenriqueArgolo/assets/79125655/ad1ed52f-fcd0-477c-b5ce-e34b51d7e745">
 
 </div>
 
-<div align="center"> 
-<a href="https://instagram.com/jhnrque_" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/HenriqueArgolo/HenriqueArgolo/assets/79125655/1b114fac-52dc-4fff-93e6-527e0faffea6">
-</a>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![XML](https://img.shields.io/badge/XML-%23E34F26.svg?style=for-the-badge&logo=xml&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-<a href="mailto:henrique.argolo.jh@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/HenriqueArgolo/HenriqueArgolo/assets/79125655/33083fda-10e2-4fb6-a1b7-2fb7b33e5ad1">
-</a>
 
-<a  href="https://www.linkedin.com/in/henrique-argolo/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/HenriqueArgolo/HenriqueArgolo/assets/79125655/f69d9c54-8c79-4cee-b555-e4d9a9929e25">
-</a>
-</div>
+
+
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jhnrque_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-argolo/) 
+
+
+
