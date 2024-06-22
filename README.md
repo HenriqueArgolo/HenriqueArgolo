@@ -13,11 +13,11 @@
 
 <div align="center"> 
 <a href="https://instagram.com/jhnrque_" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+<img align="center" height="84" width="84" src="https://github.com/HenriqueArgolo/HenriqueArgolo/assets/79125655/1b114fac-52dc-4fff-93e6-527e0faffea6">
 </a>
 
 <a href="mailto:henrique.argolo.jh@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+<img align="center"  height="80" width="80" src="https://github.com/HenriqueArgolo/HenriqueArgolo/assets/79125655/33083fda-10e2-4fb6-a1b7-2fb7b33e5ad1">
 </a>
 
 <a  href="https://www.linkedin.com/in/henrique-argolo/" target=_blank>
