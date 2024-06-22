@@ -1,6 +1,5 @@
- <img src="https://github.com/HenriqueArgolo/HenriqueArgolo/assets/79125655/7983fab5-9495-4467-9f56-d421323e1c93"/>
+ <img width=100% bottom=50px src="https://github.com/HenriqueArgolo/HenriqueArgolo/assets/79125655/3a8d4b68-374f-4201-af96-f805da6c635c"/>
  
- <br>
  <br>
  <br>
  
