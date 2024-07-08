@@ -28,9 +28,11 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueArgolo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&card_height=200)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueArgolo&show_icons=true&theme=transparent&hide_border=false&card_height=200)
-
+ <div>
+  <a href="https://github.com/HenriqueArgolo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueArgolo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueArgolo&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## 🌐 Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/{HenriqueArgolo}/count.svg)
