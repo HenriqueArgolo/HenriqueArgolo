@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="https://github.com/HenriqueArgolo/HenriqueArgolo/assets/79125655/bde2cada-da84-4773-a356-78915471a933">
+<img src="https://github.com/HenriqueArgolo/HenriqueArgolo/assets/79125655/92577599-a9b2-414d-a88b-42e5dd9301f8">
  
 </div>
 
@@ -19,7 +19,7 @@
 
 
 # 💻 Tech Stack:
-<div align="center">
+<div>
  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -35,7 +35,7 @@
 
 
 
- <div align="center">
+ <div>
   <a href="https://github.com/HenriqueArgolo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueArgolo&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -46,7 +46,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jhnrque_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-argolo/) 
 
-<div align="center">
+<div">
    
 <img align="center" src="https://github.com/HenriqueArgolo/HenriqueArgolo/assets/79125655/ad1ed52f-fcd0-477c-b5ce-e34b51d7e745">
 
