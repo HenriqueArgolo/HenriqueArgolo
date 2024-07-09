@@ -1,12 +1,12 @@
-<div >
+<div align="center" >
  
 <img src="https://github.com/HenriqueArgolo/HenriqueArgolo/assets/79125655/92577599-a9b2-414d-a88b-42e5dd9301f8">
  
-</div>
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6251F7&center=false&vCenter=false&random=false&width=1000&height=76&lines=Hello%2C+my+name+is+Jo%C3%A3o+Henrique;Welcome+to+my+profile.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6251F7&center=true&vCenter=true&random=false&width=1000&height=76&lines=Hello%2C+my+name+is+Jo%C3%A3o+Henrique;Welcome+to+my+profile.)](https://git.io/typing-svg)
 
 <div >
 
@@ -53,5 +53,5 @@
 
 
 </div>
-
+</div>
 
