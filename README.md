@@ -1,6 +1,6 @@
 <div align="center" >
  
-<img src="https://github.com/HenriqueArgolo/HenriqueArgolo/assets/79125655/5f7af40f-1b6e-4474-99d0-8ce0c74ea93a">
+
  
 
 
